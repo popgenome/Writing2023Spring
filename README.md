@@ -1,5 +1,5 @@
 # Scientific Writing in 2023 Spring Semester
-*Scientific Writing* is a course for graduate students to learn reading literature and writing scientific reviews. It teaches a fundamental skill in **scientific reading, presentation and wwriting**, which serves as the basis in their future research life.
+*Scientific Writing* is a course for graduate students to learn reading literature and writing scientific reviews. It teaches fundamental skills in **scientific reading, presentation and writing**, which serves as the basis in their future research life.
 
 # Contents
 1. Introduction
